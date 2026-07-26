@@ -1,0 +1,12 @@
+tensorflow
+streamlit
+fastapi
+uvicorn
+numpy
+opencv-python
+pillow
+matplotlib
+sqlalchemy
+python-dotenv
+google-generativeai
+grad-cam
